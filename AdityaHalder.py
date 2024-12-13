@@ -1333,7 +1333,7 @@ With Your ☛ Other Friends.**"""
             [
                 InlineKeyboardButton(
                     text="🌺 Open Repository Link 🦋",
-                    url="https://github.com/AdityaHalder/AdityaPlayer",
+                    url="https://github.com/BWFXMUSIC/L2RPlayer",
                 )
             ],
             [
